@@ -1,5 +1,7 @@
 # proof of concept
 
+See [index.astro](./src/pages/index.astro)
+
 - https://shoelace.style/getting-started/installation#bundling
 
 - https://github.com/sapphi-red/vite-plugin-static-copy
