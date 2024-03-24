@@ -1,0 +1,22 @@
+---
+import "@shoelace-style/shoelace/dist/themes/light.css";
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Shoelace Test</title>
+		<script>
+			import "@shoelace-style/shoelace/dist/components/tooltip/tooltip.js";
+			import { setBasePath } from "@shoelace-style/shoelace/dist/utilities/base-path.js";
+			setBasePath("/shoelace");
+		</script>
+	</head>
+	<body>
+		<sl-tooltip content="This is a tooltip">
+			<button>hover me</button>
+		</sl-tooltip>
+	</body>
+</html>
