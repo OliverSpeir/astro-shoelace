@@ -1,6 +1,6 @@
 # proof of concept
 
-See [index.astro](./src/pages/index.astro)
+See [index.astro](./src/pages/index.astro) and [astro.config.ts](./astro.config.ts)
 
 - https://shoelace.style/getting-started/installation#bundling
 
