@@ -1,11 +1,16 @@
 # proof of concept
 
+Client side Shoelace Components in Astro
+
+## TO DO 
+
+- SSR with [Astro Lit Integration](https://docs.astro.build/en/guides/integrations-guide/lit/)
+
 See [index.astro](./src/pages/index.astro) and [astro.config.ts](./astro.config.ts)
 
 - https://shoelace.style/getting-started/installation#bundling
 
 -  ~19.9kb of js and ~4.5kb css for the tooltip
-
 
 - https://github.com/sapphi-red/vite-plugin-static-copy
   - Inspired by: https://github.com/gongfudev/new-astro-repo/tree/main
