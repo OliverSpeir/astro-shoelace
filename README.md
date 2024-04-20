@@ -6,6 +6,8 @@ Client side Shoelace Components in Astro
 
 - SSR with [Astro Lit Integration](https://docs.astro.build/en/guides/integrations-guide/lit/)
 
+## Details
+
 See [index.astro](./src/pages/index.astro) and [astro.config.ts](./astro.config.ts)
 
 - https://shoelace.style/getting-started/installation#bundling
